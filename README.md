@@ -5,6 +5,10 @@
 
 ![](https://gpvc.arturio.dev/ri5h46h)
 
+I am Rishabh Narayan, an undergraduate second year computer science and engineering student at Silver Oak University, Ahmedabad, Gujarat 👨‍🎓🎓
+
+## My Skills and Technologies I use:
+
 <!--
 **ri5h46h/ri5h46h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
