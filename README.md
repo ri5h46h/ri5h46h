@@ -1,4 +1,7 @@
-### Hi there ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<h1 align="center">
+  Hi, Welcome to <a href="https://github.com/ri5h46h/">Rishabh's Profile</a> !
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
 <!--
 **ri5h46h/ri5h46h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
