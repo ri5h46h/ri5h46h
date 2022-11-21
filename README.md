@@ -9,6 +9,10 @@ I am Rishabh Narayan, an undergraduate second year computer science and engineer
 
 ## My Skills and Technologies I use:
 
+![](https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
+![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+
+
 <!--
 **ri5h46h/ri5h46h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
