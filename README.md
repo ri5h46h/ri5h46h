@@ -4,6 +4,7 @@
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ri5h46h" alt="ri5h46h" /> </p>
+
 [![GitHub followers](https://img.shields.io/github/followers/ri5h46h?label=Follow&style=social)](https://github.com/ri5h46h/?tab=follow)
 
 I am Rishabh Narayan, an undergraduate second year computer science and engineering student at Silver Oak University, Ahmedabad, Gujarat 👨‍🎓🎓
